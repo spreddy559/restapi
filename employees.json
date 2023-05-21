@@ -2,51 +2,51 @@
     {
         "id": 1,
         "name": "Purushothama",
-        "department": "IT"
+        "designation": "IT"
     },
     {
         "id": 2,
         "name": "Sachin",
-        "department": "HR"
+        "designation": "HR"
     },
     {
         "id": 3,
         "name": "Ramesh",
-        "department": "IT"
+        "designation": "IT"
     },
     {
         "id": 4,
         "name": "Gagan",
-        "department": "HR"
+        "designation": "HR"
     },
     {
         "id": 5,
         "name": "Salman",
-        "department": "IT"
+        "designation": "IT"
     },
     {
         "id": 6,
         "name": "Suleman",
-        "department": "HR"
+        "designation": "HR"
     },
     {
         "id": 7,
         "name": "Pavan",
-        "department": "IT"
+        "designation": "IT"
     },
     {
         "id": 8,
         "name": "Prakash",
-        "department": "HR"
+        "designation": "HR"
     },
     {
         "id": 9,
         "name": "Govind",
-        "department": "IT"
+        "designation": "IT"
     },
     {
         "id": 10,
         "name": "Ganesh",
-        "department": "HR"
+        "designation": "HR"
     }
 ]
